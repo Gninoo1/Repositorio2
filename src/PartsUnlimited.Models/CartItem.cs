@@ -8,6 +8,7 @@ namespace PartsUnlimited.Models
 {
 
     // Cambio hecho desde GITHUB
+    2024-05-16 nuevo cambio desde GitHUB (rama ldevelop)
     public class CartItem
     {
         [Key]
