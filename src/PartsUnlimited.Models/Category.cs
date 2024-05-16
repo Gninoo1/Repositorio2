@@ -6,6 +6,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 // Cambio de codigo en Category 1
+// 2024-05-16 Nuevo cambio desde GITHUb (Rama develop)
 {
     public class Category
     {
